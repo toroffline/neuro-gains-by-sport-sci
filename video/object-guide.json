@@ -1,0 +1,197 @@
+[
+  [
+    [
+      "1",
+      "Brain",
+      "สมอง",
+      "Coral marker in the head identifies the neural component.",
+      "จุดสีคอรัลในศีรษะแทนสมอง ซึ่งเป็นส่วนของระบบประสาท",
+      "#ed8174"
+    ],
+    [
+      "2",
+      "Heart",
+      "หัวใจ",
+      "Chest marker identifies the heart; its position is schematic.",
+      "จุดบริเวณทรวงอกแทนหัวใจ ตำแหน่งในหุ่นเป็นภาพสรุป",
+      "#ed8174"
+    ],
+    [
+      "3",
+      "Adrenal / ovarian sites",
+      "บริเวณต่อมหมวกไตและรังไข่",
+      "Abdominal and pelvic markers locate endocrine organs; enlarged views follow.",
+      "จุดในช่องท้องและอุ้งเชิงกรานระบุตำแหน่งอวัยวะต่อมไร้ท่อ ซึ่งจะขยายให้ดูในฉากถัดไป",
+      "#ed8174"
+    ],
+    [
+      "4",
+      "Runner and lifter",
+      "นักวิ่งและผู้ยกดัมเบล",
+      "The runner represents aerobic activity; the lifter represents resistance exercise.",
+      "นักวิ่งแทนการฝึกแอโรบิก ผู้ยกดัมเบลแทนการฝึกแรงต้าน",
+      "#4289af"
+    ]
+  ],
+  [
+    [
+      "1",
+      "Albumin",
+      "อัลบูมิน",
+      "Blue lobed proteins carry bound tryptophan in plasma.",
+      "โปรตีนสีน้ำเงินเป็นพู แทนอัลบูมินที่จับทริปโตเฟนในพลาสมา",
+      "#6b9db7"
+    ],
+    [
+      "2",
+      "Free fatty acids (FFA)",
+      "กรดไขมันอิสระ (FFA)",
+      "Orange bead chains represent fatty acids competing at albumin binding sites.",
+      "สายลูกปัดสีส้มแทนกรดไขมันที่อาจแย่งตำแหน่งจับบนอัลบูมิน",
+      "#d89952"
+    ],
+    [
+      "3",
+      "Blood vessel / cutaway",
+      "หลอดเลือด / ภาพตัด",
+      "Pink walls surround the lumen. Coral discs are red blood cells, not hormones.",
+      "ผนังสีชมพูล้อมช่องภายในหลอดเลือด แผ่นสีคอรัลคือเม็ดเลือดแดง ไม่ใช่ฮอร์โมน",
+      "#e58b80"
+    ],
+    [
+      "4",
+      "Muscle fibers and BCAA",
+      "เส้นใยกล้ามเนื้อและ BCAA",
+      "Striped parallel fibers represent muscle. Blue amino-acid markers move toward it.",
+      "เส้นขนานมีลายพาดแทนเส้นใยกล้ามเนื้อ จุดกรดอะมิโนสายโซ่กิ่ง (BCAA) สีน้ำเงินเคลื่อนเข้าหากล้ามเนื้อ",
+      "#3989b1"
+    ],
+    [
+      "5",
+      "BBB and LAT1",
+      "แนวกั้นเลือด–สมองและ LAT1",
+      "An endothelial barrier and blue transporter represent selective amino-acid entry. Gold dots are free tryptophan.",
+      "แถวเซลล์แทนแนวกั้นเลือด–สมอง โปรตีนสีน้ำเงินแทน LAT1 จุดสีทองคือทริปโตเฟนอิสระ",
+      "#eab858"
+    ],
+    [
+      "6",
+      "Brainstem raphe nuclei",
+      "ราเฟนิวเคลียสในก้านสมอง",
+      "Coral points lie in the brainstem below the cerebral mass; they represent serotonergic nuclei.",
+      "จุดคอรัลอยู่ในก้านสมองใต้สมองใหญ่ แทนกลุ่มเซลล์ประสาทที่เกี่ยวข้องกับเซโรโทนิน",
+      "#ed8174"
+    ]
+  ],
+  [
+    [
+      "1",
+      "Plasma compartment",
+      "ช่องพลาสมา",
+      "The vessel cross-section shows a smaller fluid compartment with the same illustrative particle count.",
+      "ภาพตัดหลอดเลือดแสดงช่องของเหลวที่เล็กลง โดยคงจำนวนอนุภาคตัวอย่างเท่าเดิม",
+      "#9ac3d7"
+    ],
+    [
+      "2",
+      "P4 concentration markers",
+      "อนุภาคแทน P4",
+      "Gold dots represent progesterone; closer spacing illustrates concentration, not a measured secretion rate.",
+      "จุดทองแทนโปรเจสเตอโรน การอยู่ใกล้กันขึ้นสื่อความเข้มข้น ไม่ใช่อัตราการหลั่งที่วัดจริง",
+      "#eab858"
+    ],
+    [
+      "3",
+      "Fluid movement",
+      "การเคลื่อนย้ายของเหลว",
+      "Blue droplets outside the vessel indicate a fluid shift.",
+      "หยดสีน้ำเงินนอกหลอดเลือดแสดงการเคลื่อนย้ายของเหลว",
+      "#6caaca"
+    ],
+    [
+      "4",
+      "Adrenal gland above a kidney",
+      "ต่อมหมวกไตเหนือไต",
+      "The golden cap is the adrenal gland. The bean-shaped kidney below is a location landmark.",
+      "ส่วนคล้ายหมวกสีทองคือต่อมหมวกไต ส่วนรูปถั่วด้านล่างคือไต ใช้เป็นจุดอ้างอิงตำแหน่ง",
+      "#d6a34f"
+    ],
+    [
+      "5",
+      "Ovary / corpus luteum",
+      "รังไข่ / คอร์ปัสลูเทียม",
+      "Follicles and a golden corpus luteum appear inside an ovary cutaway. Ovarian contribution depends on cycle phase.",
+      "ภาพตัดรังไข่มีฟอลลิเคิลและคอร์ปัสลูเทียมสีทอง การมีส่วนสร้างฮอร์โมนขึ้นกับระยะรอบเดือน",
+      "#e79b92"
+    ]
+  ],
+  [
+    [
+      "1",
+      "Hypothalamus",
+      "ไฮโปทาลามัส",
+      "The underside brain marker represents the hypothalamic region, not the entire brain.",
+      "จุดใต้สมองแทนบริเวณไฮโปทาลามัส ไม่ได้ใช้ทั้งสมองแทนอวัยวะนี้",
+      "#ed8174"
+    ],
+    [
+      "2",
+      "Pituitary gland",
+      "ต่อมใต้สมอง",
+      "A small two-lobed gland connects to the brain by a stalk; the arrow summarizes signaling toward the ovary.",
+      "ต่อมขนาดเล็กสองพูต่อกับสมองด้วยก้าน ลูกศรสรุปสัญญาณไปยังรังไข่",
+      "#6b9db7"
+    ],
+    [
+      "3",
+      "Ovary and energy gauge",
+      "รังไข่และมาตรวัดพลังงาน",
+      "The ovary completes the HPO schematic. The gauge is an illustrative energy-availability indicator, not a test result.",
+      "รังไข่เป็นปลายทางในภาพแกน HPO มาตรวัดเป็นสัญลักษณ์พลังงานที่เหลือใช้ ไม่ใช่ผลตรวจ",
+      "#e79b92"
+    ],
+    [
+      "4",
+      "Long bone / cutaway",
+      "กระดูกยาว / ภาพตัด",
+      "A cortical shell and an internal trabecular lattice make the bone structure visible.",
+      "เปลือกกระดูกชั้นนอกและโครงข่ายกระดูกด้านใน ช่วยแยกส่วนโครงสร้างให้เห็น",
+      "#9ebbc9"
+    ],
+    [
+      "5",
+      "Osteoblasts and loading",
+      "เซลล์สร้างกระดูกและแรงกระทำ",
+      "Gold surface cells represent osteoblasts. The dumbbell and arrow indicate mechanical loading over time.",
+      "เซลล์สีทองบนผิวแทนเซลล์สร้างกระดูก ดัมเบลและลูกศรแทนแรงกระทำที่ส่งผลเมื่อเวลาผ่านไป",
+      "#eab858"
+    ]
+  ],
+  [
+    [
+      "1",
+      "Glucose / molecular schematic",
+      "กลูโคส / โครงร่างโมเลกุล",
+      "A ring-and-stick model indicates glucose connectivity. Blue is carbon, coral is oxygen; hydrogens and stereochemistry are omitted.",
+      "โมเดลวงแหวนและพันธะสรุปการเชื่อมต่อของกลูโคส สีน้ำเงินคือคาร์บอน คอรัลคือออกซิเจน ไม่แสดงไฮโดรเจนหรือสเตอริโอเคมี",
+      "#3d88ad"
+    ],
+    [
+      "2",
+      "Blood collection tube",
+      "หลอดเก็บตัวอย่างเลือด",
+      "The capped cylinder contains a blood sample. It represents sampling, not a simulated laboratory readout.",
+      "กระบอกมีฝาบรรจุตัวอย่างเลือด แทนการเก็บตัวอย่าง ไม่ใช่การจำลองผลเครื่องตรวจ",
+      "#e58b80"
+    ],
+    [
+      "3",
+      "Cycle-aware P4 assessment",
+      "การตรวจ P4 ตามรอบเดือน",
+      "The timing marker indicates sampling in relation to the individual menstrual cycle.",
+      "สัญลักษณ์เวลาเตือนให้เลือกช่วงเก็บตัวอย่างตามรอบเดือนของแต่ละบุคคล",
+      "#6b9db7"
+    ]
+  ],
+  []
+]
